@@ -1,0 +1,2 @@
+# ClaymoresDualMiners
+Claymore miner
